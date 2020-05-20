@@ -1,6 +1,0 @@
-/home/llg/workspace_cmake/P03-MMOD_old_version/build/CMakeFiles/rebuild_cache.dir
-/home/llg/workspace_cmake/P03-MMOD_old_version/build/CMakeFiles/COR.dir
-/home/llg/workspace_cmake/P03-MMOD_old_version/build/CMakeFiles/edit_cache.dir
-/home/llg/workspace_cmake/P03-MMOD_old_version/build/glib/CMakeFiles/rebuild_cache.dir
-/home/llg/workspace_cmake/P03-MMOD_old_version/build/glib/CMakeFiles/GLIB.dir
-/home/llg/workspace_cmake/P03-MMOD_old_version/build/glib/CMakeFiles/edit_cache.dir
